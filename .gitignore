@@ -1,0 +1,34 @@
+.DS_Store
+.thumbs.db
+node_modules
+
+# Build output
+/dist
+/dist-ssr
+
+# vite-plugin-pwa dev output
+/dev-dist
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ESLint cache
+.eslintcache
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# local .env files
+.env.local*
+.env.*.local
